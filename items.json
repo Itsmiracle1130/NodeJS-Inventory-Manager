@@ -1,0 +1,26 @@
+[
+   {
+      "name": "Fender",
+      "price": "$1200",
+      "size": "Medium",
+      "id": 1
+   },
+   {
+      "name": "Ibanez",
+      "price": "$1600",
+      "size": "Large",
+      "id": 3
+   },
+   {
+      "name": "Ultimate",
+      "price": "$600",
+      "size": "Small",
+      "id": 4
+   },
+   {
+      "name": "Les Paul",
+      "price": "$6000",
+      "size": "Small",
+      "id": 5
+   }
+]

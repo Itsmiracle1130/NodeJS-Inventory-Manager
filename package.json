@@ -1,0 +1,15 @@
+{
+  "name": "two",
+  "version": "1.0.0",
+  "description": "Servers and APIs Assignment 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node web.js",
+    "start:dev": "nodemon node web.js",
+    "start:api": "node api.js",
+    "start:dev:api": "nodemon node api.js"    
+  },
+  "author": "Miracle Akintunde",
+  "license": "ISC"
+}
